@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ABFLEmail/ABFL_FIRST_TAT_COMMUNICATION_DIGITAL</members>
+        <members>ABFLEmail/ABWM_AUTO_ACK</members>
+        <members>ABFLEmail/ABWM_CLOSE_CASE</members>
+        <members>ABFLEmail/ABFL_CLOSE_CASE_EMAIL_TEMPLATE_DIGITAL_LENDING</members>
+        <name>EmailTemplate</name>
+    </types>
+    <version>59.0</version>
+</Package>
